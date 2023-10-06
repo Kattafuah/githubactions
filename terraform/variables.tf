@@ -50,5 +50,5 @@ variable "pub-sn2-name" {
 
 variable "region" {
     description = "AWS region where resources will be created" 
-    default = "us-west-2"
+    default = "us-east-1"
 }
